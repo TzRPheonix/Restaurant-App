@@ -1,0 +1,15 @@
+.boissonDisplay{
+    display: flex;
+    justify-content: center;
+}
+
+h1{
+    text-align: center;
+    padding-top: 100px;
+}
+
+.boissonDisplay img{
+    width:200px;
+    padding: 50px;
+    height:125px;
+}

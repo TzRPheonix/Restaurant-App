@@ -1,0 +1,58 @@
+.contactContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 170px;
+    margin-bottom: 85px;
+}
+
+.formContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 30px;
+}
+
+.formGroup {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+    align-items: center;
+}
+
+.formGroup label {
+    margin-bottom: 5px;
+}
+
+.formGroup input,
+.formGroup textarea {
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    resize: none;
+}
+  
+
+button {
+    padding: 5px;
+    background-color: #4caf50;
+    color: #fff;
+    border-radius: 5px;   
+    margin-top: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    display: block;
+    margin: 0 auto;
+}
+
+.mapContainer {
+    width: 400px;
+    height: 300px;
+    margin-left: 500px;
+}
+
+.mapContainer p{
+    text-align: center;
+}
+    
